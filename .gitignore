@@ -1,0 +1,22 @@
+# Build
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+.sln
+.slnx
+
+# Logs
+*.log
+
+# User files
+*.user
+*.suo
