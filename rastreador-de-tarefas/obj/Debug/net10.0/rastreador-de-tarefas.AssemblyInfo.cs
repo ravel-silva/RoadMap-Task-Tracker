@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rastreador-de-tarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9caa38aa37bdd96fb06f0602fbde83a070f9ce59")]
 [assembly: System.Reflection.AssemblyProductAttribute("rastreador-de-tarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rastreador-de-tarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
