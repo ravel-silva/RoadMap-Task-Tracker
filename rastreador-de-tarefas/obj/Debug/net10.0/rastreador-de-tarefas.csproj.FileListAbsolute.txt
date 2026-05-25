@@ -1,0 +1,14 @@
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/bin/Debug/net10.0/rastreador-de-tarefas
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/bin/Debug/net10.0/rastreador-de-tarefas.deps.json
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/bin/Debug/net10.0/rastreador-de-tarefas.runtimeconfig.json
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/bin/Debug/net10.0/rastreador-de-tarefas.dll
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/bin/Debug/net10.0/rastreador-de-tarefas.pdb
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.GeneratedMSBuildEditorConfig.editorconfig
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.AssemblyInfoInputs.cache
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.AssemblyInfo.cs
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.csproj.CoreCompileInputs.cache
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.dll
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/refint/rastreador-de-tarefas.dll
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.pdb
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/rastreador-de-tarefas.genruntimeconfig.cache
+/home/ravel/Projetos/rastreador-de-tarefas/rastreador-de-tarefas/obj/Debug/net10.0/ref/rastreador-de-tarefas.dll
